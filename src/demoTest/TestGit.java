@@ -5,6 +5,11 @@ public class TestGit {
 		
 		 System.out.println("G is the best......");
 		 System.out.println("I learnd Coding every day");
+		 
+		 int salary1 = 13;
+		 int salary2 = 7;
+		 int total = salary1 + salary2;
+		 System.out.println("The salary total is: "+ total);
 	}
 
 }

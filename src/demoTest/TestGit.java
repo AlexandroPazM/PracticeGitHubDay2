@@ -12,6 +12,7 @@ public class TestGit {
 		 System.out.println("The salary total is: "+ total);
 
 		 //from git
+		 //practicing new day
 		 
 		 System.out.println("Now We will practice other thinks");
 	}

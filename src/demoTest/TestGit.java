@@ -16,5 +16,10 @@ public class TestGit {
 		 
 		 System.out.println("Now We will practice other thinks");
 	}
-
+	 //random code.......
+	 
+	 
+	 public void subtract(int a, int b) {
+		 System.out.println(a-b);
+	 }
 }
